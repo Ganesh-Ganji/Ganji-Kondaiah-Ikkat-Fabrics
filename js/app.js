@@ -13,7 +13,12 @@
   const priceLabel = product => product.price === undefined || product.price === null || product.price === '' ? 'Enquire for price' : money(product.price);
   const waUrl = message => `https://wa.me/${encodeURIComponent(config.whatsappNumber)}?text=${encodeURIComponent(message)}`;
   const generalMessage = `Hello, I would like to know more about ${config.businessName}’s Ikkat cotton collection.`;
-  const productMessage = product => `Hello, I am interested in ${product.name} (Product ID: ${product.id}). Please share more details.`;
+  const productMessage = product => {
+    const photo = /^https?:$/.test(window.location.protocol) && !['localhost', '127.0.0.1', '::1'].includes(window.location.hostname)
+      ? new URL(product.images?.[0] || fallbackImage, document.baseURI).href
+      : '';
+    return `Hello, I am interested in ${product.name}. Please share more details.${photo ? `\nPhoto: ${photo}` : ''}`;
+  };
   const imageMarkup = (path, alt, loading = 'lazy', sizes = '(max-width:760px) 48vw, (max-width:1100px) 30vw, 24vw') => {
     const src = path || fallbackImage;
     const responsive = /\.jpe?g$/i.test(src)
