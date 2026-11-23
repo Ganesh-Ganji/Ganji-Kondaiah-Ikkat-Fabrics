@@ -1,0 +1,662 @@
+[
+  {
+    "id": "IKK001",
+    "name": "Ikkat Design 001",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-001/main.jpg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "IKK002",
+    "name": "Ikkat Design 002",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-002/main.jpg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "IKK003",
+    "name": "Ikkat Design 003",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-003/main.jpg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "IKK004",
+    "name": "Ikkat Design 004",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-004/main.jpg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "IKK005",
+    "name": "Ikkat Design 005",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-005/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK006",
+    "name": "Ikkat Design 006",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-006/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK007",
+    "name": "Ikkat Design 007",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-007/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK008",
+    "name": "Ikkat Design 008",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-008/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK009",
+    "name": "Ikkat Design 009",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-009/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK010",
+    "name": "Ikkat Design 010",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-010/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK011",
+    "name": "Ikkat Design 011",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-011/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK012",
+    "name": "Ikkat Design 012",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-012/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK013",
+    "name": "Ikkat Design 013",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-013/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK014",
+    "name": "Ikkat Design 014",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-014/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK015",
+    "name": "Ikkat Design 015",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-015/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK016",
+    "name": "Ikkat Design 016",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-016/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK017",
+    "name": "Ikkat Design 017",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-017/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK018",
+    "name": "Ikkat Design 018",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-018/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK019",
+    "name": "Ikkat Design 019",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-019/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK020",
+    "name": "Ikkat Design 020",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-020/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK021",
+    "name": "Ikkat Design 021",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-021/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK022",
+    "name": "Ikkat Design 022",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-022/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK023",
+    "name": "Ikkat Design 023",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-023/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK024",
+    "name": "Ikkat Design 024",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-024/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK025",
+    "name": "Ikkat Design 025",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-025/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK026",
+    "name": "Ikkat Design 026",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-026/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK027",
+    "name": "Ikkat Design 027",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-027/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK028",
+    "name": "Ikkat Design 028",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-028/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK029",
+    "name": "Ikkat Design 029",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-029/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK030",
+    "name": "Ikkat Design 030",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-030/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK031",
+    "name": "Ikkat Design 031",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-031/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK032",
+    "name": "Ikkat Design 032",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-032/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK033",
+    "name": "Ikkat Design 033",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-033/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK034",
+    "name": "Ikkat Design 034",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-034/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK035",
+    "name": "Ikkat Design 035",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-035/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK036",
+    "name": "Ikkat Design 036",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-036/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK037",
+    "name": "Ikkat Design 037",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-037/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK038",
+    "name": "Ikkat Design 038",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-038/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK039",
+    "name": "Ikkat Design 039",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-039/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK040",
+    "name": "Ikkat Design 040",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-040/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK041",
+    "name": "Ikkat Design 041",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-041/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK042",
+    "name": "Ikkat Design 042",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-042/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK043",
+    "name": "Ikkat Design 043",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-043/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK044",
+    "name": "Ikkat Design 044",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-044/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK045",
+    "name": "Ikkat Design 045",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-045/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK046",
+    "name": "Ikkat Design 046",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-046/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK047",
+    "name": "Ikkat Design 047",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-047/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK048",
+    "name": "Ikkat Design 048",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-048/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK049",
+    "name": "Ikkat Design 049",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-049/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK050",
+    "name": "Ikkat Design 050",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-050/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK051",
+    "name": "Ikkat Design 051",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-051/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK052",
+    "name": "Ikkat Design 052",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-052/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK053",
+    "name": "Ikkat Design 053",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-053/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK054",
+    "name": "Ikkat Design 054",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-054/main.jpg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "IKK055",
+    "name": "Ikkat Design 055",
+    "category": "Cotton Fabric",
+    "material": "Cotton",
+    "description": "A handloom Ikkat pattern. Contact us to confirm measurements, colours and availability.",
+    "availability": "Please enquire",
+    "images": [
+      "assets/products/design-055/main.jpg"
+    ],
+    "featured": false
+  }
+]
